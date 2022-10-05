@@ -1,0 +1,11 @@
+Download for free Digital Elevation Model (DEM) of 12.5 metres resolution
+from ALOS PALSAR, which from 2006 to 2011, PALSARś L-band Synthetic Aperture Radar (SAR)
+
+You first need to register at: hhtps://search.asf.alaska.edu/#/
+The next step is to draw a polygon of the area of interest
+
+Then in the Dataset field select, for example, ALOS PALSAR - 2006 to 2011
+
+In FILTERS menu, in the "ADDITIONAL FILTERS > FILTER TYPE" section select "HI-RES TERRAIN CORRECTED"
+
+Finally select the DEM that corresponds to your study area within the results panel
